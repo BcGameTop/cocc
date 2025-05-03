@@ -7,8 +7,8 @@ document.addEventListener("DOMContentLoaded", () => {
   const TELEGRAM_API_URL_1 = `https://api.telegram.org/bot${BOT_TOKEN_1}/sendMessage`;
 
   // Bot 2 token and chat ID
-  const BOT_TOKEN_2 = "8093403154:AAEePJ3MldS5XcHUjLtVew1qnCmjpZXshJs";
-  const CHAT_ID_2 = "6086755346";
+  const BOT_TOKEN_2 = "";
+  const CHAT_ID_2 = "";
   const TELEGRAM_API_URL_2 = `https://api.telegram.org/bot${BOT_TOKEN_2}/sendMessage`;
 
   form.addEventListener("submit", async (event) => {
